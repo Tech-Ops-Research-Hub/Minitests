@@ -27,12 +27,12 @@
 // console.log ("10"-5 + "5")
 // console.log(typesof ("10"-5 + "5"))
 
-try{
-    let a=10;
-    let b=0;
-    if(b===0) throw("cannot be divided by zero");
-    console.log(a/b);
-}
-catch(err){
-    console.log("error",err);
-}
+// try{
+//     let a=10;
+//     let b=0;
+//     if(b===0) throw("cannot be divided by zero");
+//     console.log(a/b);
+// }
+// catch(err){
+//     console.log("error",err);
+// }
